@@ -1,9 +1,9 @@
-# fish-plugin-peco_git_checkout
+# peco_git_checkout
 
 ## Installation
 
 ```
-$ fisher 5t111111/fish-plugin-peco_git_checkout
+$ fisher unreliable-angels/peco_git_checkout
 ```
 
 ## Example key binding
